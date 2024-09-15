@@ -1,6 +1,9 @@
 # Cisco-Switch-Automation
 Developed a simple script to automate wiping of CISCO Catalyst 3850 and supportive IOS version for other Cisco models
 
+# Version-History
+Version 1: Has basic script with assumption that a switch is in a certain mode.
+
 # Get-Started
 **Clone Repository:** git clone https://github.com/sudoblanc/Cisco-Switch-Automation 
 
