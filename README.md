@@ -13,8 +13,8 @@ Will include:
 -  better error handling
 -  Advanced concepts to handle wait time
 
-# Shortcomings
-This script cannot directly run on PuTTy client, It used powershell to run the script while executing the script on active window
+# Shortcomings/ Limitations
+- PuTTY Window Must Be Active: The PuTTY window must be the active (foreground) window when running the script, as SendKeys only sends keys to the active window.
 
 
 # Get-Started
