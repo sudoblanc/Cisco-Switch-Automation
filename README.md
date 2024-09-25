@@ -8,8 +8,8 @@ Developed a simple script to automate wiping of CISCO Catalyst 3850 and supporti
 Has basic script with assumption that a switch is in a certain mode.
 Will include:
 
-**Future advancements for version 1.2:
-**- Auto IOS detection and perform script according to detected IOS in the system.
+**Future advancements for version 1.2:**
+- Auto IOS detection and perform script according to detected IOS in the system.
 -  better error handling
 -  Advanced concepts to handle wait time
 
