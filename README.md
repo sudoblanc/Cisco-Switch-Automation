@@ -4,8 +4,8 @@ Developed a simple script to automate wiping of CISCO Catalyst 3850 and supporti
 
 # Version-History
 
-**Version 1 release notes:
-**Has basic script with assumption that a switch is in a certain mode.
+**Version 1 release notes:**
+Has basic script with assumption that a switch is in a certain mode.
 Will include:
 
 **Future advancements for version 1.2:
